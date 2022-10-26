@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  background-color: #C8DBBE;
+  color: #425F57;
+}
+h1 {
+  color: #749F82;
+}
+h3 {
+  color: #749F82;
+}
+hr {
+  border: 0;
+  border-top: 12px dotted #94B49F;
+  width: 10%;
+}
+footer {
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 2%;
+  background-color: #94B49F;
+}
+.firstHr {
+  border-top: 6px groove #94B49F;
+  width: 100%;
+}
+.LastTable {
+  padding-bottom: 15%;
+}
+.padding {
+  padding-left: 2%;
+}
+.madeby {
+  margin-top: 2%;
+  font-size: 90%;
+  color: #809A6F;
+}
+.CV {
+  font-size: 330%;
+  font-family: Brush Script MT;
+  padding-top: 1%;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.space {
+  margin:0;
+  padding: 0;
+  color:#425F57;
+}
